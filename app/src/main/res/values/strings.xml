@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Exercise Project 3 List Application</string>
+    <string-array name="items">
+        <item>peach</item>
+        <item>banana</item>
+        <item>apple</item>
+    </string-array>
+    <string-array name="prices">
+        <item>$0.99</item>
+        <item>$1.20</item>
+        <item>$0.99</item>
+    </string-array>
+    <string-array name="descriptions">
+        <item>Fresh peach from Georgia</item>
+        <item>Fresh banana from Ecuador</item>
+        <item>Fresh apple from Finland</item>
+    </string-array>
+</resources>
